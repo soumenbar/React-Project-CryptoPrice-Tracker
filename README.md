@@ -1,5 +1,5 @@
 
- It is a website for track current price Crypto Currency.
+ It is a website for track current price of Crypto Currency.
 
 Features:
     User can check realtime price of top 100 Crypto.
