@@ -1,5 +1,5 @@
 Crypto Price Tracker
-A website for track price of Crypto Currency.
+is website for track price of Crypto Currency.
 
 Features:
     User can check realtime price of top 100 Crypto.
